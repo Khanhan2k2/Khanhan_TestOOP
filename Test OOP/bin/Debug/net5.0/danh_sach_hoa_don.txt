@@ -1,0 +1,17 @@
+Số lượng hóa đơn muốn nhập: 1
+Hóa đơn 1: 
+Mã hóa đơn: 1111
+Ngày lập hóa đơn(dd/mm/yyyy): 20/5/2020
+Thông tin khách hàng: 
+	Nhập thông tin khách hàng: 
+	Mã khách hàng: 1111
+	Tên khách hàng: 1
+	Địa chỉ: 1
+	Số điện thoại: 0797043481
+	Nhập chi tiết hóa đơn thứ 1
+		Chọn loại thiết bị điện (1-máy quạt , 2- máy lạnh): 1
+			Chọn loại máy quạt (1- máy quạt đứng, 2- máy quạt hơi nước, 3- máy quạt sạc điện): 1
+			Nhập mã: 111111
+			Tên sản phẩm: 202020
+			Nơi sản xuất: 12456
+		Số lượng bán ra: 5

@@ -1,0 +1,39 @@
+Số lượng hóa đơn muốn nhập: 2
+Nhập thông tin hóa đơn 1: 
+Mã hóa đơn: 1
+Ngày lập hóa đơn: 20/10/25
+Thông tin khách hàng: 
+	Nhập thông tin khách hàng: 
+	Mã khách hàng: 1
+	Tên khách hàng: 2
+	Địa chỉ: 1
+	Số điện thoại: 2
+Nhập danh sách các chi tiết hóa đơn: 
+	 Số lượng chi tiết trong dah sách các chi tiết hóa đơn: 1
+	Nhập chi tiết hóa đơn thứ 1
+		Chọn loại thiết bị điện (1-máy quạt , 2- máy lạnh):1
+			Nhập mã: a
+			Tên sản phẩm: b
+			Nơi sản xuất: c
+			Dung tích nước: 4
+		Số lượng bán ra: 5
+		Chọn loại máy quạt (1- máy quạt đứng, 2- máy quạt hơi nước, 3- máy quạt sạc điện):2
+Số lượng hóa đơn muốn nhập: 1
+Nhập thông tin hóa đơn 1: 
+Mã hóa đơn: 1
+Ngày lập hóa đơn: 40/50/45
+Thông tin khách hàng: 
+	Nhập thông tin khách hàng: 
+	Mã khách hàng: 1
+	Tên khách hàng: 1
+	Địa chỉ: 1
+	Số điện thoại: 1
+Nhập danh sách các chi tiết hóa đơn: 
+	 Số lượng chi tiết trong dah sách các chi tiết hóa đơn: 1
+	Nhập chi tiết hóa đơn thứ 1
+		Chọn loại thiết bị điện (1-máy quạt , 2- máy lạnh):1
+			Nhập mã: a
+			Tên sản phẩm: a
+			Nơi sản xuất: a
+		Số lượng bán ra: 4
+		Chọn loại máy quạt (1- máy quạt đứng, 2- máy quạt hơi nước, 3- máy quạt sạc điện):1

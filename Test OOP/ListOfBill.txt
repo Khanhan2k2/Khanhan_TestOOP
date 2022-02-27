@@ -1,0 +1,2 @@
+Số lượng hóa đơn muốn nhập: 1
+Nhập thông tin hóa đơn 1: 
